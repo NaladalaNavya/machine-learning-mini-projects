@@ -2,13 +2,14 @@
 
 Welcome to my machine learning mini projects repository! 🤖 Here, I've documented a series of hands-on projects that I've worked on to sharpen my skills in the exciting world of machine learning and data science.
 
-## Project List
+
+🚀 **Machine Learning Mini Projects Showcase** 🤖
 
 1. **Linear Regression - House Price Prediction**
    - Predicting house prices using linear regression techniques.
 
 2. **Linear Regression - Canada Per Capita Income**
-   - Analyzing and predicting Canada's per capita income using linear regression.
+   - Analyzing and predicting Canada’s per capita income using linear regression.
 
 3. **Multiple Regression - Hiring Salary Prediction**
    - Building models to predict salary based on various hiring factors.
@@ -34,9 +35,43 @@ Welcome to my machine learning mini projects repository! 🤖 Here, I've documen
 10. **Multinomial Logistic Regression - Handwritten Digits**
     - Recognizing handwritten digits using multinomial logistic regression.
 
-...and many more!
+11. **Decision Tree - Salaries**
+    - Analyzing salary patterns using decision trees.
 
-Feel free to explore each project's directory for detailed code, datasets, and insights. If you have any questions or suggestions, please don't hesitate to reach out.
+12. **Decision Tree - Titanic Survival Prediction**
+    - Predicting Titanic passenger survival with decision trees.
+
+13. **Support Vector Machine (SVM) - Handwritten Digits**
+    - Classifying handwritten digits with SVM.
+
+14. **Random Forest - Handwritten Digits**
+    - Enhancing handwritten digit classification with random forests.
+
+15. **K-Fold Cross-Validation**
+    - Elevating model evaluation with K-Fold cross-validation.
+
+16. **K-Means Clustering - Income Analysis**
+    - Uncovering income patterns with K-Means clustering.
+
+17. **K-Means Clustering - Iris Dataset**
+    - Exploring the Iris dataset using K-Means clustering.
+
+18. **Naive Bayes - Titanic Survival Prediction**
+    - Predicting Titanic passenger survival with Naive Bayes.
+
+19. **Hyperparameter Tuning**
+    - Optimizing model performance with hyperparameter tuning.
+
+20. **K-Nearest Neighbors (KNN) - Iris Dataset**
+    - Achieving accurate classification with KNN on the Iris dataset.
+
+21. **Principal Component Analysis (PCA) - Handwritten Digits**
+    - Reducing dimensionality while retaining information in handwritten digit recognition.
+
+22. **Bagging - Heart Disease Prediction**
+    - Predicting heart disease with confidence using bagging techniques.
+
+These projects represent my continuous journey in mastering machine learning and data analysis. To explore each project in detail, please visit my GitHub repository. Feel free to reach out for any questions or insights!
 
 ## How to Use
 
